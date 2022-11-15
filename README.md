@@ -7,7 +7,7 @@ I'm currently a student/apprentice at Nashville Software School and looking to e
 
 - 🌱 I’m currently learning -- C#, SQL, .NET and building fullstack applications using VS & VS Code for clientside
 
-*   🌍  I'm based in Washington, DC but willing to move (if needed).
+*   🌍  I'm based in the DC/Washingtong/Virginia area but willing to move (if needed).
 
 ### Skills
 <p align="left">
