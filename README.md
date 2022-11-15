@@ -5,7 +5,7 @@ Software Developer
 
 I'm currently a student/apprentice at Nashville Software School and looking to enhance my knowledge and understanding of HTML, JavaScript, and several other languages. I'm excited to dive into the tech industry and explore new things with other developers!
 
-- 🌱 I’m currently learning -- C#, SQL, .NET and building fullstack applications use VS & VS Code for clientside
+- 🌱 I’m currently learning -- C#, SQL, .NET and building fullstack applications using VS & VS Code for clientside
 
 *   🌍  I'm based in Washington, DC but willing to move (if needed).
 
