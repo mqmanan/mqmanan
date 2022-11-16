@@ -20,7 +20,7 @@ I'm currently a student/apprentice at Nashville Software School and looking to e
 
 * 🌱 I’m currently learning -- C#, SQL, .NET and building fullstack applications using VS & VS Code for clientside
 
-* ✉ Contact me! I'm willing to take on all oppurtunities that will help me grow as a developer -- mqmanan@gmail.com
+* ✉ Contact me! I'm willing to take on all oppurtunities that will help me grow as a developer -- mqmanan@gmail.com <br><br>
 
 ### Skills
 <p align="left">
@@ -55,8 +55,7 @@ I'm currently a student/apprentice at Nashville Software School and looking to e
 <a title="LinkedIn Profile" href="https://www.linkedin.com/in/mariaqmanansala" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </a>&nbsp; 
-
-</p>
+</p><br>
 
 ### My GitHub Stats
 
