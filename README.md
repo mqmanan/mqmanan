@@ -3,7 +3,6 @@
 <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/static/v1?label=Contains&message=Tasty%20Spaghetti%20Code&color=yellow&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="tasty spaghetti" />
 </a>&nbsp;
-
   
 <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/static/v1?label=It%20Works&message=Somehow&color=green&style=for-the-badge&logo=broadcom&logoColor=white" alt="itworks"/>
@@ -18,7 +17,9 @@ Software Developer
 
 I'm currently a student/apprentice at Nashville Software School and looking to enhance my knowledge and understanding of HTML, JavaScript, and several other languages. I'm excited to dive into the tech industry and explore new things with other developers!
 
-* 🌱 I’m currently learning -- C#, SQL, .NET and building fullstack applications using VS & VS Code for clientside
+* 🌱 I’m currently learning -- C#, .NET, SQL, & building fullstack applications using VS & VS Code for clientside
+
+* 👤 View my resume -- https://drive.google.com/file/d/1bWnlDnlEIetDUMgDdXTOCsJO41RPKBXX/view?usp=sharing
 
 * ✉ Contact me! I'm willing to take on all oppurtunities that will help me grow as a developer -- mqmanan@gmail.com <br><br>
 
@@ -55,7 +56,7 @@ I'm currently a student/apprentice at Nashville Software School and looking to e
 <a title="LinkedIn Profile" href="https://www.linkedin.com/in/mariaqmanansala" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </a>&nbsp; 
-</p><br>
+</p>
 
 ### My GitHub Stats
 
