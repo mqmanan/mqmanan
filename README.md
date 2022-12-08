@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/static/v1?label=It%20Works&message=Somehow&color=green&style=for-the-badge&logo=broadcom&logoColor=white" alt="itworks"/>
 </a><br><br>
 
-<h1>Hi 👋 My name is Maria Manansala</h1>
+<h1>Hi 👋 My name is Maria</h1>
   
 </p>
 
