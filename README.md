@@ -17,6 +17,8 @@ Software Developer
 
 I'm currently an apprentice at Nashville Software School and looking to enhance my knowledge and understanding of HTML, JavaScript, and several other languages. I'm excited to dive into the tech industry and explore new things with other developers!
 
+* 🌱 I'm currently working on -- <a title="CreatureCare" href="[https://www.linkedin.com/in/mariaqmanansala](https://github.com/mqmanan/CreatureCare)" target="_blank" rel="noreferrer"></a>
+
 * 🌱 I’m currently learning -- C#, .NET, SQL, & building fullstack applications using VS & VS Code for clientside
 
 * ✉ Contact me, I'm willing to take on all oppurtunities that will help me grow as a developer -- mqmanan@gmail.com <br><br>
