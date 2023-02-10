@@ -21,7 +21,7 @@ I'm currently an apprentice at Nashville Software School and looking to enhance 
 
 * 🌱 I’m currently learning -- C#, .NET, SQL, & building fullstack applications using VS & VS Code for clientside
 
-* ✉ Contact me, I'm willing to take on all oppurtunities that will help me grow as a developer -- mqmanan@gmail.com <br><br>
+* ✉ Always willing to learn & grow, let's collab -- mqmanan@gmail.com <br><br>
 
 ### Skills
 <p align="left">
